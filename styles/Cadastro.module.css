@@ -36,6 +36,7 @@
 .title a {
   color: #eec900;
   text-decoration: none;
+  font-size: 22px;
 }
 
 .title a:hover,
@@ -44,11 +45,14 @@
   text-decoration: none;
   color: #ff6a6a;
 }
+.img {
+  margin: 0, 15px;
+}
 
 .title {
-  margin: 0;
+  padding-top: 15px;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 26px;
 }
 
 .title,
@@ -108,12 +112,19 @@
   font-size: 1.25rem;
   line-height: 1.5;
 }
-
+.containerSection {
+  height: 300px;
+  width: auto;
+  padding-bottom: 50px;
+}
 .logo {
   height: 1em;
   margin-left: 0.5rem;
 }
-
+.linkvoltar {
+  font-size: 1.5rem;
+  padding-bottom: 50px;
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;

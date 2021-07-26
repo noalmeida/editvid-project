@@ -1,0 +1,33 @@
+.divform {
+  height: auto;
+}
+
+.divform label {
+  font-size: 12px;
+}
+
+.errortext {
+  font-size: 12px;
+}
+
+.inputbox {
+  margin-left: 45%;
+  display: flex;
+}
+.inputboxEndereco {
+  margin-left: 9px;
+}
+
+.buttonbox {
+  margin-top: 10px;
+  height: 35px;
+  width: 100px;
+  margin-left: 15px;
+}
+.buttonbox:hover {
+  background-color: chocolate;
+  border-radius: 0.5rem;
+}
+.labelinput {
+  margin-left: 15px;
+}
