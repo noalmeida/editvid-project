@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Cadastro.module.css";
 import img from "../public/imagens/laptop-2.svg";
-import FormComponent from "./components/Form/Form";
+import FormComponent from "../components/Form/Form";
 import Link from "next/link";
 
 export default function Cadastro() {

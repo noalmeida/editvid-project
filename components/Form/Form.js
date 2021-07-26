@@ -1,7 +1,7 @@
 import React from "react";
 import { Field, Form, Formik } from "formik";
 import { FormStyled } from "./FormStyled.js";
-import styles from "../../../styles/Form.module.css";
+import styles from "../../styles/Form.module.css";
 import { StylesContext } from "@material-ui/styles";
 
 export default function FormComponent() {
